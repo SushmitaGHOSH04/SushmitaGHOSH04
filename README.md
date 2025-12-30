@@ -16,6 +16,16 @@
 
 ---
 
+### 🚀 About Me
+
+- 🔭 I’m currently working on **Full Stack Web Development projects.**
+- 🌱 I’m currently learning **Deep Learning algorithms and Cloud Computing.**
+- 💼 I study **CSBS**, which means I understand both the *code* and the *business* behind it.
+- 👯 I’m looking to collaborate on **Open Source projects involving React or Python.**
+- 💬 Ask me about **Frontend Design, Python, or Business Strategy.**
+
+---
+
 ## 🌌 CyberCrew
 
 <div align="center">
