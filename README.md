@@ -1,7 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-# 💫 About Me:
-💫 About Me<br>I am an Computer Science And Business Engineering student with a deep passion for Data Science and Computer Vision.<br><br>🔭 I’m currently working on Machine Learning & Deep Learning architectures.<br>👯 I’m looking to collaborate on Web-based AI integration or Model-based projects.<br>🤝 I’m looking for help with Model Deployment (Docker/Kubernetes).<br>🌱 I’m currently learning OpenCV, ML Pipelining, and MLOps.<br>💬 Ask me about AI Deployment, Python, or Computer Vision.
+<!-- WORKING TYPING ANIMATION - Indian ISP safe -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Sushmita+Ghosh;CSBS+%7C+Machine+Learning;Software+Developer;Neon+Coder+%E2%9A%A1&font=Fira%20Code&size=28&pause=1000&center=true&width=440&height=50&duration=4000&color=FF1493" alt="Typing SVG"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/NEON-ONLINE-ff1493?style=for-the-badge&logo=neon&logoColor=white&labelColor=black&color=black" alt="neon"/>
+<img src="https://img.shields.io/badge/CSBS-Student-ff1493?style=for-the-badge&logo=csharp&logoColor=white&labelColor=black&color=black" alt="csbs"/>
+<img src="https://img.shields.io/badge/ML%2BDev-ff1493?style=for-the-badge&logo=python&logoColor=yellow&labelColor=black&color=black" alt="ml"/>
+
+</div>
+
+---
+
+## 🌌 CyberCrew
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/src/assets/images/astronaut.gif?raw=true" width="120"/><br>
+<b>🚀 AstroByte</b><br>
+<em>ML Model Trainer</em>
+</td>
+<td align="center">
+<img src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/src/assets/images/codestats.gif?raw=true" width="120"/><br>
+<b>⚡ CodeNeko</b><br>
+<em>Software Architect</em>
+</td>
+<td align="center">
+<img src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/src/assets/images/vscode.gif?raw=true" width="120"/><br>
+<b>🎨 PixelMage</b><br>
+<em>UI/Neon Designer</em>
+</td>
+</tr>
+</table>
+</div>
+
 
 
 # 💻 Tech Stack:
